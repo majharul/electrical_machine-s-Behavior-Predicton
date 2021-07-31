@@ -15,3 +15,5 @@ Data attributes
 the generated data is for an electrical machines(motor for a washing machine plant) data has x row and y column Primary observation. From the dataset we can predict next schedule of maintenance and we will collect the data from a single machines but using similar technique and logging data for same model's multiple machine we can predict life expectency lately. So in this work we will focus on a single machine data to find the next shutdown or to predict the next shutdown/maintenance before it happens forcefully.
 
 # Dataset Generation
+
+https://github.com/majharul/electrical_machine-s-Behavior-Predicton/blob/main/Machines's_behaviour_optimumPerformance_prediction.ipynb
